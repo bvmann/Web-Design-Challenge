@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Latitudes vs. Weather 
 
 Built a website comparing latitude and weather conditions
 
