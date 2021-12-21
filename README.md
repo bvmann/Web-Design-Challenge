@@ -2,4 +2,4 @@
 
 Built a website comparing latitude and weather conditions
 
-website launched at https://bvmann.github.io/Web-Design-Challenge/
+website launched at https://bvmann.github.io/latitudes-and-weather/
